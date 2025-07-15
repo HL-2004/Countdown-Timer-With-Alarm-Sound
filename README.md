@@ -18,12 +18,6 @@ A feature-rich **countdown timer GUI application** built using Python's `tkinter
 
 ---
 
-## 📸 Screenshots
-
-> _Attach screenshot of the UI or use generated logo/image_
-
----
-
 ## 🔧 Requirements
 
 Make sure to install the following libraries (especially for Pydroid 3 users):
