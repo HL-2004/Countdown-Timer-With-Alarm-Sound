@@ -29,6 +29,7 @@ pip install pygame
 
 ---
 
+
 📁 File Structure
 
 📁 countdown-timer/
@@ -36,6 +37,9 @@ pip install pygame
 ├── alarm.mp3                # Alarm sound (you must provide)
 ├── timer_logs.txt           # Auto-created log file
 └── README.md                # Project description
+
+
+---
 
 🎵 Alarm Sound
 
@@ -49,6 +53,7 @@ python countdown_timer.py
 
 > For Pydroid 3, simply open the .py file and press "Run".
 
+---
 
 📌 Future Enhancements
 
